@@ -1,0 +1,24 @@
+languageCode = "cn"
+languageName = "Chinese"
+weight = 1
+title = "AcidWall Studio"
+
+[params]
+  displayName = "CN"
+  isoCode = "cn"
+  rtl = false
+  dateFormat = "2 January 2006"
+  logo = "AcidLogo.png"
+  # secondaryLogo = "img/secondary-logo.png"
+  # description = "My awesome website"
+  # copyright = "The God Of Flowers."
+
+[author]
+  name = "AcidWall Studio"
+  image = "AcidWallLogo.png"
+  headline = "We are Homo Faber."
+  bio = "We are Homo Ludens."
+  # links = [
+  #   { twitter = "https://twitter.com/username" }
+  # ]
+
