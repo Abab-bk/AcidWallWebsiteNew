@@ -27,7 +27,7 @@ AcidWall Studio 的最新企划为一款太空主题的、快节奏的、令人�
 银河子午线的开发得到了众多行业巨星的支持，包括但不限于：
 - 涛哥：《像素三国》开发者。
 - Guillem SC：育碧游戏的开发者，在游戏行业有充分经验。
-- 忘忧の：Godot 社区著名开发者。
+- 忘忧の：Godot 社区著名开发者 (daylily-zeleen@foxmail.com)。
 - 小李xl：《枪火地牢》开发者。
 - Gabbinetto：《Who's that Pokemon?》、《Detached》开发者。
 - Adobe Systems Incorporated：市值 3000 亿美元的世界领先的数字媒体和在线营销解决方案供应商。
